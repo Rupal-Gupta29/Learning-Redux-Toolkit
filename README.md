@@ -1,3 +1,14 @@
+### Introduction
+This project serves as an introductory guide to using Redux Toolkit for managing cart functionality in an e-commerce application. It includes the ability to add and remove items from the cart, with data manipulation and storage handled by Redux Toolkit. Other components fetch and utilize the cart data from the store, showcasing the power and simplicity of state management with Redux Toolkit.
+
+### App Interface
+
+![Capture](https://github.com/Rupal-Gupta29/Learning-Redux-Toolkit/assets/70842313/ddc47c71-4749-4821-944b-c6d3ec7fbbce)
+
+![localhost_3000_ (1)](https://github.com/Rupal-Gupta29/Learning-Redux-Toolkit/assets/70842313/dbe97f3c-229a-4069-914f-6bd920d0208b)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
