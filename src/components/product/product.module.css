@@ -1,0 +1,18 @@
+.productCard {
+  border: 1px solid rgb(202, 202, 202);
+  border-radius: 5px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.cartBtn {
+  padding: 10px 0px;
+  background-color: #7aa93c;
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+}

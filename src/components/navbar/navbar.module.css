@@ -1,0 +1,37 @@
+.navbar,
+.navItemsWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.navbar {
+  padding: 10px 20px;
+  flex-wrap: wrap;
+  background-color: #7aa93c;
+}
+
+.navItemsWrapper {
+  gap: 30px;
+}
+
+.logo {
+  font-size: larger;
+}
+
+.logo,
+.navItem {
+  color: white;
+  font-weight: bold;
+}
+
+.navItem {
+  text-decoration: none;
+}
+
+.activeLink{
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+  border-bottom: 2px solid white;
+}
